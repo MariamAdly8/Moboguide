@@ -1,5 +1,5 @@
 # Moboguide
-This application is designed to provide users with comprehensive reviews and ratings of various mobile phones. Utilizing the MVC (Model-View-Controller) architecture and .NET framwork.
+This application is designed to provide users with comprehensive reviews and ratings and comparisons of various mobile phones. Utilizing the MVC (Model-View-Controller) architecture and .NET framwork.
 
 
 Features:
@@ -13,6 +13,8 @@ Features:
 4-Search Functionality: Search for mobile phones based on various criteria such as brand, model.
 
 5-Admin Dashboard: Manage mobile phones, reviews, and user accounts.
+
+6-Make comparisons of various mobile phones.
 
 
 
