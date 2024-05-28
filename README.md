@@ -3,6 +3,7 @@ This application is designed to provide users with comprehensive reviews and rat
 
 
 Features:
+
 1-User Registration and Authentication: Users can create an account, log in, and log out.
 
 2-Mobile Phone Listings: View a list of mobile phones with basic information.
@@ -12,6 +13,7 @@ Features:
 4-Search Functionality: Search for mobile phones based on various criteria such as brand, model.
 
 5-Admin Dashboard: Manage mobile phones, reviews, and user accounts.
+
 
 
 Technologies Used
